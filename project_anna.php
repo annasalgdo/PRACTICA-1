@@ -1,1 +1,1 @@
-<?php echo "Hello Anna! Com va el projecte? -_-." ?>
+<?php echo "Hola Anna! He entrat amb el teu nom i el teu email." ?>
